@@ -1,4 +1,5 @@
-# Notes on (Computational) Social Media Research - Supplements
+# Notes on (Computational) Social Media Research - Supplements [![DOI](https://zenodo.org/badge/660157642.svg)](https://zenodo.org/badge/latestdoi/660157642)
+
 
 ![Social Media Lab Banner](images/banner.png)
 
@@ -69,6 +70,28 @@ We welcome contributions to the project. If you have ideas, improvements, or wou
 ## License
 
 The content of this project, including the Jupyter notebooks and other resources, is licensed under the [GNU General Public License version 3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.de.html). For more details, see the [LICENSE.md](LICENSE.md) file.
+
+## Citation
+
+Please use one of the following options for citing the content of this repository when using the notebooks and examples in your academic work.
+
+```
+Michael Achmann. (2023). michaelachmann/social-media-lab: DOI Release (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.8199902
+```
+
+```bibtex
+@software{michael_achmann_2023_8199902,
+  author       = {Michael Achmann},
+  title        = {michaelachmann/social-media-lab: DOI Release},
+  month        = jul,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v0.0.1},
+  doi          = {10.5281/zenodo.8199902},
+  url          = {https://doi.org/10.5281/zenodo.8199902}
+}
+```
+
 
 ## Contact
 
